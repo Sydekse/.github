@@ -71,8 +71,8 @@ All projects are released under respective licenses mentioned in their repositor
 
 ## 🌟 Connect with Us
 
-- **Website**: [sydek.io](https://sydek.dev)
-- **LinkedIn**: [linkedin.com/company/sydek](https://linkedin.com/company/sydekse)
+- **Website**: [sydek.dev](https://sydek.dev)
+- **LinkedIn**: [linkedin.com/company/sydekse](https://linkedin.com/company/sydekse)
 
 ---
 
